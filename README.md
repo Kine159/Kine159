@@ -43,7 +43,7 @@ I study.
 
 ### Experience
 
-**Server** — Kim's Pho and Grill, Houston · August 2026 – Present
+**Sale Associate** — Kim's Pho and Grill, Houston · August 2026 – Present
 
 - Handle over half of the restaurant's daily sales at checkout, processing up to
   $2,000 per shift with full accountability for accuracy
@@ -55,7 +55,7 @@ I study.
   closing procedures
 - Serve guests in both English and Vietnamese, supporting a bilingual customer base
 
-**Server** — China House, Huntsville · September 2024 – May 2026
+**Sale Associate** — China House, Huntsville · September 2024 – May 2026
 
 - Held the role for 21 consecutive months while completing an Associate of Arts
   through online coursework
