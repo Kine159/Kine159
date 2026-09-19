@@ -77,4 +77,3 @@ I study.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tpham105@cougarnet.uh.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kienpham0502)
 
-<sub>Banner grown procedurally from a seeded branching algorithm — see <a href="assets/sakura.awk">assets/sakura.awk</a>.</sub>
