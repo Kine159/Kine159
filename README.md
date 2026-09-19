@@ -1,4 +1,12 @@
-# Hi, I'm Trung Kien Pham 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sakura-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/sakura-light.svg">
+    <img alt="Trung Kien Pham — @Kine159" src="assets/sakura-light.svg" width="100%">
+  </picture>
+</p>
+
+### Hi there 👋
 
 <!-- TODO(1): one or two sentences about what you do. Example below — replace it. -->
 Software developer based in Vietnam. I like building practical tools, and I'm
@@ -24,3 +32,5 @@ currently working my way deeper into backend and systems programming.
 <!-- TODO(6): delete any line you don't want public. -->
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xkgaming147@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+
+<sub>Banner grown procedurally — see <a href="assets/">assets/</a>.</sub>
