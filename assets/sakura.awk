@@ -185,7 +185,7 @@ BEGIN {
 
   printf "<text x=\"92\" y=\"180\" font-family=\"Georgia, 'Palatino Linotype', 'Book Antiqua', serif\" font-size=\"46\" fill=\"%s\">Trung Kien Pham</text>\n", nameC
   printf "<rect x=\"95\" y=\"202\" width=\"58\" height=\"2\" rx=\"1\" fill=\"%s\"/>\n", ruleC
-  printf "<text x=\"95\" y=\"230\" font-family=\"'Segoe UI', Helvetica, Arial, sans-serif\" font-size=\"16\" letter-spacing=\"3.4\" fill=\"%s\">@Kine159</text>\n", subC
+  printf "<text x=\"95\" y=\"230\" font-family=\"'Segoe UI', Helvetica, Arial, sans-serif\" font-size=\"13\" letter-spacing=\"2.8\" fill=\"%s\">ACCOUNTING &#183; UNIVERSITY OF HOUSTON</text>\n", subC
   print "</g>"
   print "</svg>"
   printf "sites=%d blossoms=%d segs=%d\n", nsite, nb, nseg > "/dev/stderr"
